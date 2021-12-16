@@ -5,45 +5,39 @@ permalink: /contact/
 author_profile: true
 ---
 
-Here are some of the major projects that I have undertaken. Some of them are course projects, competitions reports or other technical projects. 
-Click on the title for a detailed report.
+Some of the major projects I've worked on are listed below. They include Course projects, competition reports, and other technical works. A complete report may be found by clicking on the title.
+
 
 <br>
-<b> [Compressive Sensing Matrix Design](https://ameyanjarlekar.github.io/files/BTP1.pdf)</b> <br>
-Video Compression algorithm specifically for Daikin video-database. Uses a Hitomi Camera architecture inspired compressed sensing algorithm.
+<b> [Configuring Intelligent Reflecting Surfaces (IRS) for Wireless Communications](https://drive.google.com/file/d/1epMAsOWmBjENBxGsDEXXRXAPf8Hj1kCx/view?usp=sharing)</b> <br>
+Our approach to the problem statement at IEEE Signal Processing Cup 2021. Estimated Channel model using Least Squares and generalized a Dictionary Learning based scheme to the IRS system model for frequency selective channels and optimized IRS configuration using Projected Gradient Ascent. 
+
 
 <br>
-<b> [Video Compression for efficient Remote Support video storage and retrieval](https://docs.google.com/presentation/d/1s6hPTey_Io6pHKXVyL2HjT6fy4xf-CgNCyTM-haO-80/edit?usp=sharing)</b> <br>
- Designed sensing matrices by minimizing weighted (determined from training data). Also, proposed an approach to design weights to handle rotation and scaling of images.
+<br>
+<b> [Content Caching in Matern Cluster Process](https://drive.google.com/file/d/1I6bcr7lUCh90gSUwmJfvOv_Z-6WTDCGs/view?usp=sharing)</b> <br> 
+Derived the expressions for Cache Aided Throughput in Matern Clustered Process (MCPs), using the framework of stochastic geometry, when both the Base Station’s (BS) and users cache the files.
+
+
+<br>
+<br>
+<b> [Newton's Sketch for Non-separable functions](https://drive.google.com/file/d/1iXiIGPKdvZMTA9yOEWCUqgXgFHsWlZxF/view?usp=sharing), [[Slides](https://drive.google.com/file/d/1nV1G5SRBMXHLRuQvZv4ORN23DQE3XOMX/view?usp=sharing)]</b> <br>
+Analyzed feasibility and un-biasedness of a new sketching technique for Newton's method which does not require computing square-root of the Hessian matrix.% and hence can be used for optimizing non-seperable functions. Showed Local Linear-Quadratic convergence of Newton's method under this sketching scheme. Developed a global convergence analysis of sketched Newton for self-concordant functions.
+
+<br>
+<br>
+<b> [On the Capacity of Computation Broadcast](https://drive.google.com/file/d/1KH4IuVcsP0hmnblrF67g_TzoJ3RuO3ww/view?usp=sharing)</b> <br> 
+Read about the problem of Computation Broadcast and its relation to Index Coding and some special cases of Computation Broadcast problem.
+
+
+<br>
+<br>
+<b> [Fundamentals of Index Coding](https://drive.google.com/file/d/1YENsG2ihf_nyE3Si8s2hFzFWqD0sGBsO/view?usp=sharing)</b> <br> 
+Read a survey paper on `Fundamentals of Index Coding' and explored related papers. Gave a talk on the same, explaining the duality between Index Coding problem and Locally Recoverable Distributed Storage Problem.
+
+<br>
+<br>
+<b> [BAJA SAE, IIT-K Motorsports](https://drive.google.com/open?id=1lSi67uNwJpiNEicml4HWsMonf22yhcEM)</b> <br> 
+Implemented and designed multi-link suspension for an All-Terrain vehicle. Used MATLAB for development of suspension kinematics using numerical optimization techniques.
+
  
-<br>
-<b>[Blind Compressed Sensing](https://ameyanjarlekar.github.io/files/BCS.pdf)</b> <br> 
- Reviewed various theoretical results of Blind Compressed Sensing and implemented the corresponding algorithm for joint estimation of dictionaryand images. Detailed mathematical analysis can be found <b>[here](https://ameyanjarlekar.github.io/files/Mathematical_analysis.pdf)</b>.
- 
-<br>
-<b>[Use of Residuals for Image Denoising](http://ameyanjarlekar.github.io/files/residuals.pdf)</b> <br> 
- Denoising algorithm using the residual image. Also, studied and implemented metrics for quality of image denoising without the use of the reference image.
- 
- <br>
-<b>[Target Parameter Estimation from Compressive Measurements](http://ameyanjarlekar.github.io/files/Doppler-Microdoppler.pdf)</b> <br> 
- Parameter estimation of rotating targets through Doppler and Micro-Doppler estimation of corresponding radar signals from their compressive measurements.
-
-<br>
-<b>[Supervised Detection of Tennis Ball from Camera Stream](https://github.com/ameyanjarlekar/MRT)</b> <br> 
-Ball detection task required in the autonomous operations of the mars rover. This was done as a part of the IITB Mars Rover Team for the University Rover Challenge. 
-
-<br>
-<b>[Image Reconstruction for Parallel MRI](https://github.com/ameyanjarlekar/Grappa-algorithm-for-Parallel-MRI)</b> <br> 
-Modified version of GRAPPA algorithm on Xilinx Zynq-7000 FPGA Board for image reconstruction during Parallel MRI used in the indigenous MRI machine being developed at IIT Bombay
-
-<br>
-<b>[Distortion Correction for Modulation Recognition](http://ameyanjarlekar.github.io/files/signal_distort.pdf)</b> <br> 
-Deployed a CNN model on the "RML2018.10a" dataset for the frequency estimation of various signals and analyzed its performance over various Signal to Noise (SNR) ratio
-
-<br>
-<b>[Microprocessor design](http://ameyanjarlekar.github.io/publications/proc.md)</b> <br> 
-Designed a RISC microprocessor using VHDL
-
-<br>
-<b>[Text Categorization](http://ameyanjarlekar.github.io/files/text_categ.pdf)</b> <br> 
-Classifying various articles from the 20Newsgroups dataset into 20 different categories.
