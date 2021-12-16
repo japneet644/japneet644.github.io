@@ -10,21 +10,18 @@ Some of the major projects I've worked on are listed below. They include Course 
 
 <br>
 <b> [Configuring Intelligent Reflecting Surfaces (IRS) for Wireless Communications](https://drive.google.com/file/d/1epMAsOWmBjENBxGsDEXXRXAPf8Hj1kCx/view?usp=sharing)</b> <br>
-Our approach to the problem statement at IEEE Signal Processing Cup 2021. Estimated Channel model using Least Squares and generalized a Dictionary Learning based scheme to the IRS system model for frequency selective channels and optimized IRS configuration using Projected Gradient Ascent. 
+Our approach to the problem statement at IEEE Signal Processing Cup 2021. We estimated the Channel model using Least Squares and generalized a Dictionary Learning based scheme to the IRS system model for frequency selective channels and optimized IRS configuration using Projected Gradient Ascent. 
 
 
-<br>
 <br>
 <b> [Content Caching in Matern Cluster Process](https://drive.google.com/file/d/1I6bcr7lUCh90gSUwmJfvOv_Z-6WTDCGs/view?usp=sharing)</b> <br> 
 Derived the expressions for Cache Aided Throughput in Matern Clustered Process (MCPs), using the framework of stochastic geometry, when both the Base Station’s (BS) and users cache the files.
 
 
 <br>
-<br>
 <b> [Newton's Sketch for Non-separable functions](https://drive.google.com/file/d/1iXiIGPKdvZMTA9yOEWCUqgXgFHsWlZxF/view?usp=sharing), [[Slides](https://drive.google.com/file/d/1nV1G5SRBMXHLRuQvZv4ORN23DQE3XOMX/view?usp=sharing)]</b> <br>
-Analyzed feasibility and un-biasedness of a new sketching technique for Newton's method which does not require computing square-root of the Hessian matrix.% and hence can be used for optimizing non-seperable functions. Showed Local Linear-Quadratic convergence of Newton's method under this sketching scheme. Developed a global convergence analysis of sketched Newton for self-concordant functions.
+Analyzed feasibility and un-biasedness of a new sketching technique for Newton's method which does not require computing square-root of the Hessian matrix and hence can be used for optimizing non-seperable functions. Showed Local Linear-Quadratic convergence of Newton's method under this sketching scheme. Developed a global convergence analysis of sketched Newton for self-concordant functions.
 
-<br>
 <br>
 <b> [On the Capacity of Computation Broadcast](https://drive.google.com/file/d/1KH4IuVcsP0hmnblrF67g_TzoJ3RuO3ww/view?usp=sharing)</b> <br> 
 Read about the problem of Computation Broadcast and its relation to Index Coding and some special cases of Computation Broadcast problem.
