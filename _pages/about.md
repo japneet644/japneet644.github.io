@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a PhD student in the [Department of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [Purdue University](www.purdue.edu), advised by [Prof. Anuran Makur](https://www.cs.purdue.edu/homes/amakur/index.html). I work on problems in Ranking and Preference learning and studing the properties of contraction coefficients in Information theory.  
+I am a PhD student in the [Department of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [Purdue University](https://www.purdue.edu/), advised by [Prof. Anuran Makur](https://www.cs.purdue.edu/homes/amakur/index.html). I work on problems in Ranking and Preference learning and studing the properties of contraction coefficients in Information theory.  
 
 My research interests include Ranking and Preference Learning, Information and Coding Theory, Machine Learning, Large Scale Optimization. Brodaly, I'm interested in employing mathematical techniques to address real-world bottlenecks in realistic system models and to characterize the fundamental limits of various processes in Large-scale optimization, Distributed computing etc. 
 
