@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://japneet644.github.io/files/CV_Japneet6.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://japneet644.github.io/files/CV_Japneet (2).pdf)
