@@ -10,4 +10,15 @@ author_profile: true
 
 <b>[Secure and Private Fountain Code based Architecture for Blockchains](http://japneet644.github.io/files/GFAF.pdf)</b> <br> 
 <b>Japneet Singh</b>, Adrish Banerjee, Hamid Sadjadpour;
-<i>accepted at WCNC, 2022</i>.
+<i>In Proceedings of IEEE-WCNC, 2022</i>.
+
+<b>[Testing for the Bradley-Terry-Luce Model](http://japneet644.github.io/files/Testing_of_BTLm.pdf)</b> <br> 
+Anuran Makur, <b>Japneet Singh </b>*;
+<i>In Proceedings of IEEE-ISIT, 2023</i>.
+
+<b>[On Properties of Doeblin Coefficients](http://japneet644.github.io/files/DoeblinCoef.pdf)</b> <br> 
+Anuran Makur, <b>Japneet Singh</b>*;
+<i>In Proceedings of IEEE-ISIT, 2023</i>.
+
+
+*denotes Alphabetical Ordering 
