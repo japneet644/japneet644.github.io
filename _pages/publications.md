@@ -12,11 +12,15 @@ author_profile: true
 <b>Japneet Singh</b>, Adrish Banerjee, Hamid Sadjadpour;
 <i>In Proceedings of IEEE-WCNC, 2022</i>.
 
-<b>[Testing for the Bradley-Terry-Luce Model](http://japneet644.github.io/files/Testing_of_BTLm.pdf)</b> <br> 
+<b>[Testing for the Bradley-Terry-Luce Model](https://ieeexplore.ieee.org/document/10206450)</b> <br> 
 Anuran Makur, <b>Japneet Singh </b>*;
 <i>In Proceedings of IEEE-ISIT, 2023</i>.
 
-<b>[On Properties of Doeblin Coefficients](http://japneet644.github.io/files/DoeblinCoef.pdf)</b> <br> 
+<b>[On Properties of Doeblin Coefficients](https://ieeexplore.ieee.org/document/10206767)</b> <br> 
+Anuran Makur, <b>Japneet Singh</b>*;
+<i>In Proceedings of IEEE-ISIT, 2023</i>.
+
+<b>[Doeblin Coefficients and Related Measures](https://arxiv.org/pdf/2309.08475.pdf)</b> <br> 
 Anuran Makur, <b>Japneet Singh</b>*;
 <i>In Proceedings of IEEE-ISIT, 2023</i>.
 
