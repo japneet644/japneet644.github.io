@@ -24,7 +24,7 @@ Anuran Makur, <b>Japneet Singh</b>*;
 
 <b>[Doeblin Coefficients and Related Measures](https://arxiv.org/pdf/2309.08475.pdf)</b> <br> 
 Anuran Makur, <b>Japneet Singh</b>*;
-<i>In Proceedings of IEEE-ISIT, 2023</i>.
+<I> under review </i>.
 
 
 *denotes Alphabetical Ordering 
