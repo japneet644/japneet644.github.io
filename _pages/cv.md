@@ -8,5 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Click to view my one page resume [PDF]](http://japneet644.github.io/files/Japneet_sResumeSept.pdf)
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://japneet644.github.io/files/CV_Japneet2.pdf)
+
+[Click to view my detailed Curriculum Vitae [PDF]](http://japneet644.github.io/files/CV_Japneet2.pdf)
