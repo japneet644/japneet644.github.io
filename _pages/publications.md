@@ -24,7 +24,7 @@ Anuran Makur, <b>Japneet Singh</b>*;
 
 <b>[Doeblin Coefficients and Related Measures](https://arxiv.org/pdf/2309.08475.pdf)</b> <br> 
 Anuran Makur, <b>Japneet Singh</b>*;
-<i> accepted to IEEE Transactions on Information Theory, February 2024. </i>.
+<i> accepted to IEEE Transactions on Information Theory, Feb 2024. </i>
 
 <b>[On Doeblin Curves and Their Properties]()</b> <br> 
 William Lu, Anuran Makur, <b>Japneet Singh</b>*;
