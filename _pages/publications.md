@@ -27,7 +27,7 @@ Anuran Makur, <b>Japneet Singh</b>*;
 <i> accepted to IEEE Transactions on Information Theory, February 2024. </i>.
 
 <b>[On Doeblin Curves and Their Properties]()</b> <br> 
-Anuran Makur, <b>Japneet Singh</b>*;
+William Lu, Anuran Makur, <b>Japneet Singh</b>*;
 <i> under review. </i>.
 
 
