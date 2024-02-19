@@ -5,7 +5,7 @@ author_profile: true
 ---
 <br>
 
-# <big>**Journal** </big>
+## <big>**Journal** </big>
 
 <b>[Doeblin Coefficients and Related Measures](https://arxiv.org/pdf/2309.08475.pdf)</b> <br> 
 Anuran Makur, <b>Japneet Singh</b>*;
@@ -16,7 +16,7 @@ Anuran Makur, <b>Japneet Singh</b>*;
 <i>SciPost Physics, 2021</i>.
 
 
-# <big> **Conference** </big>
+## <big> **Conference** </big>
 
 <b>[On Doeblin Curves and Their Properties]()</b> <br> 
 William Lu, Anuran Makur, <b>Japneet Singh</b>*;
