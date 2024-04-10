@@ -20,7 +20,7 @@ Anuran Makur, <b>Japneet Singh</b>*;
 
 <b>[On Doeblin Curves and Their Properties]()</b> <br> 
 William Lu, Anuran Makur, <b>Japneet Singh</b>*;
-<i> under review. </i>.
+<i> accepted to IEEE-ISIT, 2024</i>.
 
 
 <b>[Testing for the Bradley-Terry-Luce Model](https://ieeexplore.ieee.org/document/10206450)</b> <br> 
