@@ -18,9 +18,14 @@ Anuran Makur, <b>Japneet Singh</b>*;
 
 ## <big> **Conference** </big>
 
-<b>[On Doeblin Curves and Their Properties]()</b> <br> 
+<b>[Hypothesis Testing for the Generalized Thurstone model](http://japneet644.github.io/files/TestingForThurstoneModel.pdf)</b> <br> 
+Anuran Makur, <b>Japneet Singh</b>*;
+<i>Under review, 2024</i>.
+
+
+<b>[On Doeblin Curves and Their Properties](https://ieeexplore.ieee.org/document/10619264)</b> <br> 
 William Lu, Anuran Makur, <b>Japneet Singh</b>*;
-<i> accepted to IEEE-ISIT, 2024</i>.
+<i>In Proceedings of IEEE-ISIT IEEE-ISIT, 2024</i>.
 
 
 <b>[Testing for the Bradley-Terry-Luce Model](https://ieeexplore.ieee.org/document/10206450)</b> <br> 
