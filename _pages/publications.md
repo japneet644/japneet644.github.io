@@ -36,7 +36,7 @@ Anuran Makur, <b>Japneet Singh </b>*;
 Anuran Makur, <b>Japneet Singh</b>*;
 <i>In Proceedings of IEEE-ISIT, 2023</i>.
 
-<b>[Secure and Private Fountain Code based Architecture for Blockchains](http://japneet644.github.io/files/GFAF.pdf)</b> <br> 
+<b>[Secure and Private Fountain Code based Architecture for Blockchains](https://ieeexplore.ieee.org/document/9771862)</b> <br> 
 <b>Japneet Singh</b>, Adrish Banerjee, Hamid Sadjadpour;
 <i>In Proceedings of IEEE-WCNC, 2022</i>.
 
