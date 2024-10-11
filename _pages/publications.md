@@ -6,6 +6,9 @@ author_profile: true
 <br>
 
 ## <big>**Journal** </big>
+<b>[Minimax Hypothesis Testing for the Bradley-Terry-Luce Model](http://japneet644.github.io/files/testing_of_BTL_model.pdf)</b> <br>
+Anuran Makur, <b>Japneet Singh</b>*;
+<i> Pre-print </i>
 
 <b>[Doeblin Coefficients and Related Measures](https://arxiv.org/pdf/2309.08475.pdf)</b> <br> 
 Anuran Makur, <b>Japneet Singh</b>*;
@@ -20,7 +23,7 @@ Anuran Makur, <b>Japneet Singh</b>*;
 
 <b>[Hypothesis Testing for the Generalized Thurstone model](http://japneet644.github.io/files/TestingForThurstoneModel.pdf)</b> <br> 
 Anuran Makur, <b>Japneet Singh</b>*;
-<i>Under review </i>.
+<i> Pre-print </i>.
 
 
 <b>[On Doeblin Curves and Their Properties](https://ieeexplore.ieee.org/document/10619264)</b> <br> 
