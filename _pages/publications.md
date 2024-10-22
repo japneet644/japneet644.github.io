@@ -10,8 +10,6 @@ author_profile: true
 <b>[Minimax Hypothesis Testing for the Bradley-Terry-Luce Model](http://japneet644.github.io/files/testing_of_BTL_model.pdf)</b> <br>
 Anuran Makur, <b>Japneet Singh</b>*;
 
-<b>[Hypothesis Testing for the Generalized Thurstone model](http://japneet644.github.io/files/TestingForThurstoneModel.pdf)</b> <br> 
-Anuran Makur, <b>Japneet Singh</b>*;
 
 
 ## <big>**Journal** </big>
