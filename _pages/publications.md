@@ -18,7 +18,7 @@ Anuran Makur, <b>Japneet Singh</b>*;
 Anuran Makur, <b>Japneet Singh</b>*;
 <i> accepted to IEEE Transactions on Information Theory, Feb 2024. </i>
 
-<b>[Conditional generative models for sampling and phase transition indication in spin systems"](https://scipost.org/SciPostPhys.11.2.043)</b> <br> 
+<b>[Conditional generative models for sampling and phase transition indication in spin systems](https://scipost.org/SciPostPhys.11.2.043)</b> <br> 
 <b>Japneet Singh</b>, Mathias S. Scheurer, Vipul Arora;
 <i>SciPost Physics, 2021</i>.
 
