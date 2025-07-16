@@ -25,11 +25,11 @@ Anuran Makur, <b>Japneet Singh</b>*;
 
 
 ## <big> **Conference** </big>
-<b>[Hypothesis testing for generalized Thurstone models]()</b> <br>
+<b>[Hypothesis testing for generalized Thurstone models](https://japneet644.github.io/files/TestingForThurstoneModel.pdf)</b> <br>
 Anuran Makur, <b>Japneet Singh</b>*;
 <i>In Proceedings of International Conference on Machine Learning (ICML), 2025 </i>.
 
-<b>[Bounds on maximal leakage over Bayesian networks]()</b> <br> 
+<b>[Bounds on maximal leakage over Bayesian networks](https://japneet644.github.io/files/MaximalLeakage.pdf)</b> <br> 
 Anuran Makur, <b>Japneet Singh</b>*;
 <i>In Proceedings of IEEE International Symposium on Information Theory (ISIT), 2025</i>.
 
