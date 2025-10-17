@@ -7,12 +7,14 @@ author_profile: true
 
 ## <big> **Preprints** </big>
 
-<b>[Minimax Hypothesis Testing for the Bradley-Terry-Luce Model](http://japneet644.github.io/files/testing_of_BTL_model.pdf)</b> <br>
-Anuran Makur, <b>Japneet Singh</b>*;
-
+<b>[Doeblin curves]()</b> <br>
+Dongmin Lee, William Lu, Anuran Makur, and <b>Japneet Singh</b>*;
 
 
 ## <big>**Journal** </big>
+
+<b>[Minimax Hypothesis Testing for the Bradley-Terry-Luce Model](https://arxiv.org/abs/2410.08360)</b> <br>
+Anuran Makur, <b>Japneet Singh</b>*;
 
 <b>[Doeblin Coefficients and Related Measures](https://arxiv.org/pdf/2309.08475.pdf)</b> <br> 
 Anuran Makur, <b>Japneet Singh</b>*;
