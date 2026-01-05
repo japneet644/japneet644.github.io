@@ -15,6 +15,7 @@ Dongmin Lee, William Lu, Anuran Makur, and <b>Japneet Singh</b>*;
 
 <b>[Minimax Hypothesis Testing for the Bradley-Terry-Luce Model](https://arxiv.org/abs/2410.08360)</b> <br>
 Anuran Makur, <b>Japneet Singh</b>*;
+<i> IEEE Transactions on Information Theory, vol. 71, no. 12, pp. 9163-9202, December 2025 </i>
 
 <b>[Doeblin Coefficients and Related Measures](https://arxiv.org/pdf/2309.08475.pdf)</b> <br> 
 Anuran Makur, <b>Japneet Singh</b>*;
@@ -29,11 +30,11 @@ Anuran Makur, <b>Japneet Singh</b>*;
 ## <big> **Conference** </big>
 <b>[Hypothesis testing for generalized Thurstone models](https://japneet644.github.io/files/TestingForThurstoneModel.pdf)</b> <br>
 Anuran Makur, <b>Japneet Singh</b>*;
-<i>In Proceedings of International Conference on Machine Learning (ICML), 2025 </i>.
+<i>In Proceedings of International Conference on Machine Learning (ICML), 2025 </i>
 
 <b>[Bounds on maximal leakage over Bayesian networks](https://japneet644.github.io/files/MaximalLeakage.pdf)</b> <br> 
 Anuran Makur, <b>Japneet Singh</b>*;
-<i>In Proceedings of IEEE International Symposium on Information Theory (ISIT), 2025</i>.
+<i>In Proceedings of IEEE International Symposium on Information Theory (ISIT), 2025 </i>
 
 <b>[On Doeblin Curves and Their Properties](https://ieeexplore.ieee.org/document/10619264)</b> <br> 
 William Lu, Anuran Makur, <b>Japneet Singh</b>*;
