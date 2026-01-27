@@ -7,11 +7,12 @@ author_profile: true
 
 ## <big> **Preprints** </big>
 
-<b>[Estimate, then allocate: Fair division with imperfect information]()</b> <br>
-T. Dang, D. Halpern, A. Makur, A. Psomas, J. Singh, and P. Verma, pp. 1-73, 2025.
 
 <b>[Doeblin curves]()</b> <br>
 Dongmin Lee, William Lu, Anuran Makur, and <b>Japneet Singh</b>*;
+
+<b>[Estimate, then allocate: Fair division with imperfect information]()</b> <br>
+T. Dang, D. Halpern, A. Makur, A. Psomas, <b>Japneet Singh</b>*, and P. Verma, pp. 1-73, 2025.
 
 
 ## <big>**Journal** </big>
