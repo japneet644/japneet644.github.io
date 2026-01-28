@@ -56,7 +56,8 @@ Anuran Makur, <b>Japneet Singh</b>*;
 <b>Japneet Singh</b>, Adrish Banerjee, Hamid Sadjadpour;
 <i>In Proceedings of IEEE Wireless Communications and Networking Conference (WCNC), 2022</i>.
 
-
+<b>[Device-free crowd count estimation using passive UHF RFID technology](https://ieeexplore.ieee.org/document/8580371)</b> <br> 
+G. Gupta, V. Bhope, <b>Japneet Singh</b>, AR Harish
 
 
 *denotes Alphabetical Ordering 
