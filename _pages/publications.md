@@ -8,6 +8,8 @@ author_profile: true
 ## <big> **Preprints** </big>
 
 
+*denotes Alphabetical Ordering 
+
 <b>[Doeblin curves]()</b> <br>
 Dongmin Lee, William Lu, Anuran Makur, and <b>Japneet Singh</b>*;
 
@@ -59,5 +61,3 @@ Anuran Makur, <b>Japneet Singh</b>*;
 <b>[Device-free crowd count estimation using passive UHF RFID technology](https://ieeexplore.ieee.org/document/8580371)</b> <br> 
 G. Gupta, V. Bhope, <b>Japneet Singh</b>, AR Harish
 
-
-*denotes Alphabetical Ordering 
