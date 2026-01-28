@@ -5,10 +5,9 @@ author_profile: true
 ---
 <br>
 
-## <big> **Preprints** </big>
-
 
 *denotes Alphabetical Ordering 
+## <big> **Preprints** </big>
 
 <b>[Doeblin curves]()</b> <br>
 Dongmin Lee, William Lu, Anuran Makur, and <b>Japneet Singh</b>*;
@@ -59,5 +58,6 @@ Anuran Makur, <b>Japneet Singh</b>*;
 <i>In Proceedings of IEEE Wireless Communications and Networking Conference (WCNC), 2022</i>.
 
 <b>[Device-free crowd count estimation using passive UHF RFID technology](https://ieeexplore.ieee.org/document/8580371)</b> <br> 
-G. Gupta, V. Bhope, <b>Japneet Singh</b>, AR Harish
+G. Gupta, V. Bhope, <b>Japneet Singh</b>, AR Harish;
+<i> In Proceedings of IEEE-JRFID, 2018</i>.
 
