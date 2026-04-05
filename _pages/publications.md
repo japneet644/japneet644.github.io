@@ -12,12 +12,12 @@ author_profile: true
 <b>[ℓ<sup>&infin;</sup>-Estimation of Multi-Agent Bradley-Terry-Luce Models]()</b> <br>
 T. Dang, D. Halpern, A. Makur, A. Psomas, <b>Japneet Singh</b>, and P. Verma. <br>
 pp. 1–65, 2026.
-<br><br>
+<br>
 
 <b>[Fair Division Under Inaccurate Preferences]()</b> <br>
 T. Dang, D. Halpern, A. Makur, A. Psomas, <b>Japneet Singh</b>, and P. Verma. <br>
 pp. 1–29, 2026.
-<br><br>
+<br>
 
 <b>[Entrywise Error Bounds for Spectral Ranking with Semi-Random Adversaries]()</b> <br>
 D. Lee, A. Makur, and <b>Japneet Singh</b>. <br>
