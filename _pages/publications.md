@@ -9,14 +9,26 @@ author_profile: true
 *denotes Alphabetical Ordering 
 ## <big> **Preprints** </big>
 
-<b>[Doeblin curves]()</b> <br>
-Dongmin Lee, William Lu, Anuran Makur, and <b>Japneet Singh</b>*;
+<b>[ℓ<sup>&infin;</sup>-Estimation of Multi-Agent Bradley-Terry-Luce Models]()</b> <br>
+T. Dang, D. Halpern, A. Makur, A. Psomas, <b>Japneet Singh</b>, and P. Verma. <br>
+pp. 1–65, 2026.
+<br><br>
 
-<b>[Estimate, then allocate: Fair division with imperfect information]()</b> <br>
-T. Dang, D. Halpern, A. Makur, A. Psomas, <b>Japneet Singh</b>*, and P. Verma, pp. 1-73, 2025.
+<b>[Fair Division Under Inaccurate Preferences]()</b> <br>
+T. Dang, D. Halpern, A. Makur, A. Psomas, <b>Japneet Singh</b>, and P. Verma. <br>
+pp. 1–29, 2026.
+<br><br>
 
+<b>[Entrywise Error Bounds for Spectral Ranking with Semi-Random Adversaries]()</b> <br>
+D. Lee, A. Makur, and <b>Japneet Singh</b>. <br>
+pp. 1–17, 2026.
 
 ## <big>**Journal** </big>
+
+<b>[Doeblin curves]()</b> <br>
+Dongmin Lee, William Lu, Anuran Makur, and <b>Japneet Singh</b>*;
+<i> IEEE Transactions on Information Theory, pp. 1-42, March 2026 </i>
+
 
 <b>[Minimax Hypothesis Testing for the Bradley-Terry-Luce Model](https://arxiv.org/abs/2410.08360)</b> <br>
 Anuran Makur, <b>Japneet Singh</b>*;
